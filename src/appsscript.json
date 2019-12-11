@@ -1,0 +1,11 @@
+{
+  "dataStudio": {
+    "name": "UML Library SP Guides connector",
+    "logoUrl": "https://www.library.miami.edu/assets/common-images/um-logo2.png",
+    "company": "University of Miami Libraries",
+    "companyUrl": "https://library.miami.edu",
+    "description": "Get a list of Subject Guides from UML SubjectsPlus instance",
+    "addonUrl": "https://github.com/UMiamiLibraries/uml-spguides-datastudio-community-connector/blob/master/README.md",
+    "supportUrl": "https://github.com/UMiamiLibraries/uml-spguides-datastudio-community-connector/issues"
+  }
+}
